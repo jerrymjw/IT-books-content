@@ -5,8 +5,7 @@
 ## 计算机基础
 
 ### **计算机网络自顶向下方法**
-## github: https://github.com/armatrix/cs-computer-networking/blob/master/computer-networking-a-top-down-approach-8th-edition.pdf
-
+ß
 ### **深入理解计算机系统**
 
 
